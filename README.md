@@ -1,2 +1,2 @@
 # js-learning
-Learning Java Script by solving LeetCode Problems
+Learning Java Script 
